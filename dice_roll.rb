@@ -4,5 +4,4 @@
 
 def roll
   randomNum = rand(1..6)
-  randomNum
 end
